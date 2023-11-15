@@ -1,5 +1,5 @@
 """
-WSGI config for enegza project.
+WSGI config for puddle project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
